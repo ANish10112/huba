@@ -19,3 +19,4 @@
 .pad{padding-top: 500px;  }
 #new{background-color: black; color: white;border-radius: 15px;}
 #contact{background-color: white; }
+header{position: fixed;top: 0%; width: 100%;background-color: white;}
